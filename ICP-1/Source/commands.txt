@@ -1,0 +1,7 @@
+hadoop fs -hdfs dfs
+hadoop fs -copyFromLocal /home/cloudera/Desktop/BigDataProgramming/ICP1/data_sets/shakespeare.txt
+hadoop fs -appendToFile /home/cloudera/Desktop/BigDataProgramming/ICP1/data_sets/word_list.txt shakespeare.txt
+hadoop fs -cat shakespeare.txt | head -n 5 | hadoop fs -put - first5lines.txt
+hadoop fs -cat shakespeare.txt | tail -n 5 | hadoop fs -put - last5lines.txt
+hadoop fs -cat shakespeare.txt
+hadoop fs -text *.txt | hadoop fs -put - combined_file.txt
