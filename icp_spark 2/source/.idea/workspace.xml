@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e5bec7f-d81a-4dfb-bc88-2c9e7276f332" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eYeo77XORb6rC9ozkM2ENo1b7i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="DFS" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DFS" />
+      <module name="SPARK ICP-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KNN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="KNN" />
+      <module name="SPARK ICP-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="SPARK ICP-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.DFS" />
+        <item itemvalue="Application.KNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SPARK ICP-2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-icp-2 [file:/C:/Users/alekh/IdeaProjects/SPARK%20ICP-2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SPARK ICP-2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1186629959" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5bec7f-d81a-4dfb-bc88-2c9e7276f332" name="Default Changelist" comment="" />
+      <created>1594503125674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594503125674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1594504516419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594504516419" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594503434999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594503434999" />
+    <state width="1493" height="148" key="GridCell.Tab.0.bottom" timestamp="1594508043965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594508043965" />
+    <state width="1493" height="148" key="GridCell.Tab.0.center" timestamp="1594508043964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594508043964" />
+    <state width="1493" height="148" key="GridCell.Tab.0.left" timestamp="1594508043964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594508043964" />
+    <state width="1493" height="148" key="GridCell.Tab.0.right" timestamp="1594508043965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594508043965" />
+  </component>
+</project>
